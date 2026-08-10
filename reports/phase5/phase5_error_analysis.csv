@@ -1,0 +1,657 @@
+review,actual_sentiment,predicted_sentiment,correct_prediction,error_type
+never got flight confirmation hold hour cannot info online,neutral,negative,False,neutral -> negative
+flexibility nice love flexible not trying,negative,positive,False,negative -> positive
+luved sjc gate agent boarded flight dal did not represents brand,positive,negative,False,positive -> negative
+thanks dm rescheduling unfortunately operations process lax chaos reps refused print ticket,negative,neutral,False,negative -> neutral
+better price changed minutes talked lady honored cheap,positive,negative,False,positive -> negative
+row flight today looking specifics run home depot wd need,negative,neutral,False,negative -> neutral
+sounds fun does work,neutral,positive,False,neutral -> positive
+hold music sounds like super mario bros gameboy color,neutral,positive,False,neutral -> positive
+thanks airlines said located aa detroit informed flew aa not matter,positive,negative,False,positive -> negative
+ticks,negative,neutral,False,negative -> neutral
+took away st class seat love chairman preferred assigned row seat b middle seat,negative,neutral,False,negative -> neutral
+no oscars direct tv flight looking forward devastated,negative,neutral,False,negative -> neutral
+flying va life happens trying change trip jperhi help va home page not let,neutral,negative,False,neutral -> negative
+airlines claims low fare guarantee not honor lower fare,negative,neutral,False,negative -> neutral
+idea going terminal jfk zero traffic movement,negative,neutral,False,negative -> neutral
+airline trouble winter not getting good customer service contact negotiate resolutions,neutral,negative,False,neutral -> negative
+airlines told cannot open cabin door closed plane times tonight,neutral,negative,False,neutral -> negative
+okay thank,neutral,positive,False,neutral -> positive
+happily wait terminal near food restrooms non irritated passengers,negative,neutral,False,negative -> neutral
+flight tomorrow wed den bna delayed cancelled flightled,neutral,negative,False,neutral -> negative
+plane sounds like dj scratching normal eventually new entertainment fee,negative,positive,False,negative -> positive
+just heard monterey airport closed fog updates,neutral,negative,False,neutral -> negative
+amazing watch travels celebs world youth america not fly,neutral,positive,False,neutral -> positive
+question not possible book seat infant not giving option want seat,negative,neutral,False,negative -> neutral
+current promotions codes nashville denver thank,neutral,positive,False,neutral -> positive
+thanks seat year old broken tv flights year airline,negative,positive,False,negative -> positive
+lets chat flights bwi carolina area girl break resort usair day,negative,neutral,False,negative -> neutral
+not aa,neutral,negative,False,neutral -> negative
+hey upgraded hour international flight forgive thank,positive,neutral,False,positive -> neutral
+really big bad thing,negative,positive,False,negative -> positive
+mom s baggage lost fly fort lauderdale bogot today colombian employees treated badly need help,negative,neutral,False,negative -> neutral
+thank months ago weird not club busiest airports,positive,neutral,False,positive -> neutral
+just look rdu airport think safety passengers cant rdu safely,negative,neutral,False,negative -> neutral
+confusing web site complicated ordering process typically fly,negative,neutral,False,negative -> neutral
+deserves red carpet tx destroy luggage voucher like want fly w,negative,positive,False,negative -> positive
+coming thought tampa,negative,neutral,False,negative -> neutral
+inclement weather flights left dca today plane appeared coming aus,negative,neutral,False,negative -> neutral
+apology accepted customerservicewin itravelalot,positive,neutral,False,positive -> neutral
+did not realize no clothes hotel suggestions,neutral,negative,False,neutral -> negative
+not worry used initiative arriving earlier planned,negative,neutral,False,negative -> neutral
+compensated delays cancelled flightlation,neutral,negative,False,neutral -> negative
+not helpful trying nashville waive change fee,negative,neutral,False,negative -> neutral
+gives positive outlook sees increased competition,neutral,negative,False,neutral -> negative
+quite impressive list fees,negative,neutral,False,negative -> neutral
+clear folder regularly jetblue white listed never got,neutral,negative,False,neutral -> negative
+just booked flight view reservation mi connected problem changed,neutral,positive,False,neutral -> positive
+follow order dm come,negative,neutral,False,negative -> neutral
+noooo not not rt fleet s fleek,negative,neutral,False,negative -> neutral
+booked flights morning cannot wait country,neutral,positive,False,neutral -> positive
+second incident lost baggage sent dm thoughts,negative,neutral,False,negative -> neutral
+sector says bags no bag allowance international flight,neutral,negative,False,neutral -> negative
+enjoy time plane dfw,positive,negative,False,positive -> negative
+comedian promise make fun stage tonight,negative,neutral,False,negative -> neutral
+nonstop sjc bna sfo oak pleaseeeeee thank,neutral,positive,False,neutral -> positive
+seriously pls pls bring people help flights ord frm dfw want,negative,neutral,False,negative -> neutral
+received email requesting res getting kicked phone help,negative,neutral,False,negative -> neutral
+thanks,neutral,positive,False,neutral -> positive
+not providing pilots flights new feature merger efficencies,negative,neutral,False,negative -> neutral
+im just saying change amazing like miami,neutral,positive,False,neutral -> positive
+wind chill ithica degrees trouble losing clothes t shirt burn warmth united,negative,neutral,False,negative -> neutral
+holdup looking flight,negative,neutral,False,negative -> neutral
+does cost change ticket cost purchase new ticket,negative,neutral,False,negative -> neutral
+th circle hell right dmv noshadetothedmv,negative,neutral,False,negative -> neutral
+love holy automated phone going like options numerical shortcuts,negative,positive,False,negative -> positive
+check head plane dynamite placed,neutral,negative,False,neutral -> negative
+sincerely regret dividend miles good things coming end,negative,positive,False,negative -> positive
+looks like jfk great pic oneworld jets lined opposite air berlin lan aa,neutral,positive,False,neutral -> positive
+thanks finally letting book flight frustration set donedeal talktoahuman,negative,positive,False,negative -> positive
+long billing cycles,neutral,negative,False,neutral -> negative
+missing points account spread assuming create accounts,negative,neutral,False,negative -> neutral
+commercials like legroom,neutral,positive,False,neutral -> positive
+assured pleasant woman gate b albany ny life s not perfect heard,negative,positive,False,negative -> positive
+nicest gate attendant newark airport gate right multiple delays pleasant,positive,negative,False,positive -> negative
+got flight thursday looking tomorrow available,positive,neutral,False,positive -> neutral
+bring agent feature discontinued,negative,neutral,False,negative -> neutral
+thanks champagne aa ord nrt celebrate tokyomarathon finish,positive,neutral,False,positive -> neutral
+love air travel does not easier,positive,neutral,False,positive -> neutral
+tiks destinationdragons omg id love plz im dying,positive,neutral,False,positive -> neutral
+does not twitter,neutral,negative,False,neutral -> negative
+amazing cannot cold air vents vx noair worstflightever roasted sfotobos,negative,positive,False,negative -> positive
+not given option using united travelbank recent flight booking problems help using recouping funds thanks,negative,neutral,False,negative -> neutral
+ok pilots looking agents jumped flt dfw crazy,negative,neutral,False,negative -> neutral
+thank correctly interpreting tweet non sarcastic delaying flight yyz terminal dance party,negative,positive,False,negative -> positive
+flight flight plan issue st century,negative,neutral,False,negative -> neutral
+oh yea c mon buddy bring special friend conversation doing,negative,neutral,False,negative -> neutral
+correct date,negative,neutral,False,negative -> neutral
+way hold flight clt husband stuck security check line flight scheduled pm,neutral,negative,False,neutral -> negative
+plane hopefully no longer mercy playlist thanks,positive,negative,False,positive -> negative
+thanks,neutral,positive,False,neutral -> positive
+left headphones ua yhz ewr long shot worth tweet,neutral,negative,False,neutral -> negative
+sure did carried bag numerous times style plane planning accordingly apparently accounts,neutral,negative,False,neutral -> negative
+travel week delays cancelled flightlations want learn merger press delay connector chicago deice,neutral,negative,False,neutral -> negative
+dfw mia got bumped b way g,negative,neutral,False,negative -> neutral
+thanks weather understandable single domestic flight delayed inbound int l flights crazy,negative,neutral,False,negative -> neutral
+no friend picture phillip heller jfk ifc did said delicious,positive,neutral,False,positive -> neutral
+wow miles program ripoff quick ticket fee hope end unemployment,negative,positive,False,negative -> positive
+luckily people working bso chicago midway attentive bags punta cana,positive,neutral,False,positive -> neutral
+flt sorry scheduled phl mia totally chaotic poorly addressed event sent gates night,negative,neutral,False,negative -> neutral
+time fly southwest,negative,positive,False,negative -> positive
+flight air,negative,neutral,False,negative -> neutral
+btwn gate lost diamond earring dayjustgotworse pls maintenance look,neutral,negative,False,neutral -> negative
+think status think bug search,negative,neutral,False,negative -> neutral
+bet not paying customer know check flight delays thank,negative,neutral,False,negative -> neutral
+unitedairlines wont wait min fam w yr old connecting flight leaves early instead airport planes stop today,neutral,negative,False,neutral -> negative
+gives belfast hug new unmissable bushug format impact busads thinkbus,neutral,positive,False,neutral -> positive
+no not leave,neutral,negative,False,neutral -> negative
+dca ewr flight,neutral,negative,False,neutral -> negative
+does book ticket online hold does require pay ticket,neutral,negative,False,neutral -> negative
+legal guys advertise flights cant honor,negative,neutral,False,negative -> neutral
+did delta flight lax compensated rental car,negative,neutral,False,negative -> neutral
+know d awesome pair tickets atl girl dream destinationdragons,positive,neutral,False,positive -> neutral
+thanks,neutral,positive,False,neutral -> positive
+guys know musicians sensitive safety instruments flying good reason,negative,positive,False,negative -> positive
+denver supposed boarding right land,negative,neutral,False,negative -> neutral
+email address regarding reativation dividend miles website,negative,neutral,False,negative -> neutral
+flight attendant wendi flt newark orlando,positive,neutral,False,positive -> neutral
+agree richard p literally ripped tixs faces rude inappropriate comments family awful,neutral,negative,False,neutral -> negative
+like united airlines,positive,neutral,False,positive -> neutral
+hate evolved seating knees seat pocket,negative,neutral,False,negative -> neutral
+tried using twitter gave no helpful information thank,negative,positive,False,negative -> positive
+rqstd upgrade mint lax told no used points turn bcz used points trueblue,negative,neutral,False,negative -> neutral
+want talk wall,negative,neutral,False,negative -> neutral
+did seat international connection seriously,negative,neutral,False,negative -> neutral
+thanks reminding easier fly southwest agents sfo,negative,positive,False,negative -> positive
+not happy flyer ua flight sfo cleveland sunday stay tuned blog article,negative,neutral,False,negative -> neutral
+flyingitforward affects just small family make huge difference life,positive,neutral,False,positive -> neutral
+mind,neutral,positive,False,neutral -> positive
+soon possible boarded plane st time started,negative,neutral,False,negative -> neutral
+travel lot fave ewr cleveland w min layover connect dc best option come,negative,neutral,False,negative -> neutral
+did interupt staduim series dont need stupid commercials emergency info,negative,neutral,False,negative -> neutral
+flying ft lauderdale fl seattle wa not want honor flight,negative,neutral,False,negative -> neutral
+checked bag checked edinburgh charged randomly dc newark,negative,neutral,False,negative -> neutral
+thanks getting rescheduled direct flight nola tonight minutes hopefully hour earlier getting,positive,negative,False,positive -> negative
+going forth able board not great agents savannah,positive,negative,False,positive -> negative
+flights pensacola fl delayed flight,neutral,negative,False,neutral -> negative
+not larry fedora rt fleet s fleek,positive,neutral,False,positive -> neutral
+no self help way tsa pre check number existing reservation annoying not reachable,negative,neutral,False,negative -> neutral
+just played bizarre safety video seen,neutral,positive,False,neutral -> positive
+year old flying tokyo vacation bad knees happens,negative,neutral,False,negative -> neutral
+nah just horrible dining options outside club luckily manuel admirals make bloody mary,negative,positive,False,negative -> positive
+glad people coats storage area super unfortunate leave floor,neutral,negative,False,neutral -> negative
+does not flight work,neutral,negative,False,neutral -> negative
+americanairlines says bags left miami returned following mechanical glitch,negative,neutral,False,negative -> neutral
+cx ed entire east coast flights planes taking traveling fine need nev asap,negative,neutral,False,negative -> neutral
+really craving pretzels send,positive,negative,False,positive -> negative
+icing important,positive,neutral,False,positive -> neutral
+maybe different gate ua,negative,neutral,False,negative -> neutral
+tweet cancelled flight chng fee flight rebook affiliates afiliates,neutral,negative,False,neutral -> negative
+likely makes sound like no idea not want flights use facts thanks,negative,neutral,False,negative -> neutral
+united flight saipan guam adventure never know s old plane operational,positive,negative,False,positive -> negative
+fact chrishasmadeusblush not trending know loyal,neutral,negative,False,neutral -> negative
+deceptive marketing practices promised booked flights retain status not granting neverflyunited,negative,neutral,False,negative -> neutral
+airlines change ticket prices middle day annoyed,negative,neutral,False,negative -> neutral
+card company explained issue phone mexico purchased new ticket phone,neutral,negative,False,neutral -> negative
+flying denver march st flight itenary keeps getting changed heck booked trip months ago,negative,neutral,False,negative -> neutral
+sunday weather ok monday busy crazy,negative,neutral,False,negative -> neutral
+does sound hopeful device just hope right person time,negative,neutral,False,negative -> neutral
+received awesome phone help jim today helped switch flights booked points,positive,neutral,False,positive -> neutral
+guys screwing trip thanks lazy,negative,positive,False,negative -> positive
+missed goal inept male stewardess landed havent taken,negative,positive,False,negative -> positive
+landed care thanks help k ow caused failure,neutral,positive,False,neutral -> positive
+did start sell water,neutral,negative,False,neutral -> negative
+honest update departure flite plane infant children,negative,neutral,False,negative -> neutral
+way flying denver today airline not cancelled flighting delaying flights flyswa denverairport,positive,negative,False,positive -> negative
+job interferes w ellen concerts alway treasure experience,neutral,positive,False,neutral -> positive
+shut turn tvs music,negative,neutral,False,negative -> neutral
+darn bought wrong device no way switch sure,negative,neutral,False,negative -> neutral
+nice earlier today late flight hope,negative,positive,False,negative -> positive
+getting info website needing check alerts beneficial,neutral,negative,False,neutral -> negative
+cannot pay bucks xd,neutral,negative,False,neutral -> negative
+finally finally,neutral,positive,False,neutral -> positive
+oh cancun eventually,positive,neutral,False,positive -> neutral
+online flight notification,neutral,negative,False,neutral -> negative
+napkins pretty say,positive,negative,False,positive -> negative
+flight veers icy runway dfw flights cancelled flighted mon figures right,negative,neutral,False,negative -> neutral
+hold nd time today need help confirming new flights arranged expedite,negative,neutral,False,negative -> neutral
+rating southwest s scale,negative,neutral,False,negative -> neutral
+thx not responding,negative,positive,False,negative -> positive
+thank,neutral,positive,False,neutral -> positive
+make reservation make excuses usairwaysfail,negative,neutral,False,negative -> neutral
+case id,negative,neutral,False,negative -> neutral
+got time know paying extra make line,neutral,negative,False,neutral -> negative
+flt lax sooner midnight monday great customer service,neutral,positive,False,neutral -> positive
+cannot accommodate letting fly airport horrible service fault,neutral,negative,False,neutral -> negative
+mission accomplished gave hug,positive,negative,False,positive -> negative
+rebook help twitter,neutral,negative,False,neutral -> negative
+provide direct email explain,negative,neutral,False,negative -> neutral
+phone,neutral,negative,False,neutral -> negative
+not fault policy says got destination really,neutral,negative,False,neutral -> negative
+tell like pick bump class,positive,neutral,False,positive -> neutral
+thanks info super large passengers extra seat mr big needed sitting customerservice,negative,positive,False,negative -> positive
+spending birthday night dal dca home,negative,neutral,False,negative -> neutral
+told check airline regulation contacted,neutral,negative,False,neutral -> negative
+sure,negative,positive,False,negative -> positive
+flight delayed time arrive bhm,neutral,negative,False,neutral -> negative
+companion pass broken today purchase error invalid loyalty member account status sw vyil xklrog fs j,neutral,negative,False,neutral -> negative
+no problem just funny nice day,neutral,positive,False,neutral -> positive
+jp dm message cannot dm,negative,neutral,False,negative -> neutral
+thanks text not exactly timely data issues today maybe,negative,positive,False,negative -> positive
+wish make austin tx hub missing airline biz travel moved bos,positive,neutral,False,positive -> neutral
+social agencies cannot nice things fleet s fleek,negative,neutral,False,negative -> neutral
+im researching flight noticed small issue w class service site sites reservations help,neutral,negative,False,neutral -> negative
+elp friendly flyerfriendly united emb elpaso,positive,negative,False,positive -> negative
+love not shit people tried loyal screw way till sunday glad stayed away,negative,positive,False,negative -> positive
+fine,positive,negative,False,positive -> negative
+service staff friendly,negative,positive,False,negative -> positive
+know m sure hear time don t like new seats m small guy feel new planes tight,negative,positive,False,negative -> positive
+yes did make home no means happy chosen aa st choice flying rethinking,negative,positive,False,negative -> positive
+believe understand flight originally booked sunday flight cancelled flighted rescheduled today,positive,negative,False,positive -> negative
+day,negative,positive,False,negative -> positive
+slept miami airport mechanical issues given bonus miles try make right slapintheface,negative,neutral,False,negative -> neutral
+did win,positive,neutral,False,positive -> neutral
+nice expanding texas not forget sandiego love flights,neutral,positive,False,neutral -> positive
+shoutout agent duty gate b abq outstanding customer service w delayed flt,positive,negative,False,positive -> negative
+going service desk options,neutral,negative,False,neutral -> negative
+understand consistent consistent years known country,negative,neutral,False,negative -> neutral
+actually online indicates seating available premium cost not allow seat selection time purchase,negative,neutral,False,negative -> neutral
+cancelled flightled flights right thing reinstate tickets,negative,neutral,False,negative -> neutral
+c mon worse jetbae rt fleet s fleek,negative,neutral,False,negative -> neutral
+fkqw conf thanks reply,neutral,positive,False,neutral -> positive
+sent dm existing reservation no responded,negative,neutral,False,negative -> neutral
+im boat flight jacksonville,negative,neutral,False,negative -> neutral
+weather mess south missed connection clt impressed cust serv phone reps today,positive,negative,False,positive -> negative
+yes,negative,neutral,False,negative -> neutral
+literally just told seat mom come earlier dr appointment wow,negative,neutral,False,negative -> neutral
+asked sop said flights policy not,negative,neutral,False,negative -> neutral
+dca baggage claim employees realize thank apology long way customerservice dca,negative,positive,False,negative -> positive
+just learned travel policy waive change fee charged reservation fee,negative,neutral,False,negative -> neutral
+virgin wifi,neutral,positive,False,neutral -> positive
+best u refund billing cycles months u guys asking chance,negative,neutral,False,negative -> neutral
+reaching hardworking mom just trying best,negative,positive,False,negative -> positive
+want enter family pooling contest says website enter,neutral,negative,False,neutral -> negative
+maybe return trip,positive,neutral,False,positive -> neutral
+airways reveals bluemanity livery travelpulse,positive,neutral,False,positive -> neutral
+fortunately did not flight took time,neutral,negative,False,neutral -> negative
+ticket booked cun does arrival time reflect cun est time,neutral,negative,False,neutral -> negative
+classic,negative,neutral,False,negative -> neutral
+love destinationdragons tomorrow utah trying hard,neutral,positive,False,neutral -> positive
+oh aa speed dial,neutral,negative,False,neutral -> negative
+appreciate follow dm info figure supposed,negative,neutral,False,negative -> neutral
+let s,neutral,negative,False,neutral -> negative
+sean look aa schedule gives clue new airplanes used gr,neutral,negative,False,neutral -> negative
+hear delta offering miles frequent flyers bags does not come minutes landing thoughts,neutral,negative,False,neutral -> negative
+rt sorry hear wifi connection dani dm conf help thanks,negative,neutral,False,negative -> neutral
+yes rebooked incorrectly,negative,neutral,False,negative -> neutral
+thank headed lbc oak,neutral,positive,False,neutral -> positive
+nope rt fleet s fleek,negative,neutral,False,negative -> neutral
+yoga tv service look forward,negative,positive,False,negative -> positive
+outsource united airlines customers just loving outsource outsource outsource,positive,negative,False,positive -> negative
+lh return business ticket den fra fly domestic bag checked fra no need claim,neutral,negative,False,neutral -> negative
+yes companion pass,positive,neutral,False,positive -> neutral
+landed phoenix board flight quickly vegas no time airport,neutral,negative,False,neutral -> negative
+loyal southwest beginning unhappy devaluation,negative,positive,False,negative -> positive
+exchange credit policies worthless shadier white house dissatisfied nines right,negative,neutral,False,negative -> neutral
+fleet s fleek plz stop,negative,neutral,False,negative -> neutral
+fact treated disrespectfully lied members airline claims strive best,negative,positive,False,negative -> positive
+hope selfie stick plane today goingtovegas,neutral,positive,False,neutral -> positive
+landed bwi instead no plans make home dc suggest home,negative,neutral,False,negative -> neutral
+little surprised early bird got b den kc just worst,negative,positive,False,negative -> positive
+nope just announced headed gate,negative,neutral,False,negative -> neutral
+better customer service john wayne airport,negative,positive,False,negative -> positive
+afterall lovesongfriday cheesy sweresomuchfun brandloveaffair,neutral,positive,False,neutral -> positive
+thanks yall expect operational tomorrow nashville,positive,neutral,False,positive -> neutral
+thanks bought tix disney friend cannot eat plus new,negative,neutral,False,negative -> neutral
+year think,negative,neutral,False,negative -> neutral
+sure not question remains crew not come flt tks,negative,neutral,False,negative -> neutral
+sent conf number yesterday,negative,neutral,False,negative -> neutral
+trying loaner seat new used used car seat illegal according safety regulations,neutral,negative,False,neutral -> negative
+said thing phrased differently actual help,negative,neutral,False,negative -> neutral
+not traveling asking sister waiting nephew midland flight eventually landed,neutral,negative,False,neutral -> negative
+flown figured worth miles lifetime flight airways,negative,neutral,False,negative -> neutral
+lie,negative,neutral,False,negative -> neutral
+start offering services airports drive hrs use u,negative,neutral,False,negative -> neutral
+thank not coming solution great service say trueblue member totally dissatisfied thanks,negative,positive,False,negative -> positive
+thank flight durango driving farmington new mexico work hitting slopes durango,neutral,positive,False,neutral -> positive
+finally just arrive bogota good long flight,neutral,positive,False,neutral -> positive
+aa flight jamaica cancelled flightled yesterday weather flights landing dfw,negative,neutral,False,negative -> neutral
+just follow experience,negative,positive,False,negative -> positive
+not happy wife th bday trip like fully compensated flights,negative,positive,False,negative -> positive
+flight thx,neutral,positive,False,neutral -> positive
+just wanted southwest know not think great used anymore look,negative,positive,False,negative -> positive
+plane jetblue,negative,positive,False,negative -> positive
+let s say directly correlate flightd chance replacement case know cost airline,negative,neutral,False,negative -> neutral
+bos msp msp aus aus bos site does not display fields middle trip add rd,negative,neutral,False,negative -> neutral
+hey guys did flight earn pts,negative,neutral,False,negative -> neutral
+haha yeah did just making joke,neutral,negative,False,neutral -> negative
+usually great experience guys unhappy right,negative,positive,False,negative -> positive
+tight connections charlotte frankfurt,negative,neutral,False,negative -> neutral
+sure just second,neutral,positive,False,neutral -> positive
+no flights hrl limited route,negative,neutral,False,negative -> neutral
+yes want complain coworker neither customer service point airside,neutral,negative,False,neutral -> negative
+totally sucks cousin worked phl said,negative,positive,False,negative -> positive
+lol great answer agents checking passengers quickly possible appreciate patience,neutral,positive,False,neutral -> positive
+not board today just watched report unfold twitter proud,positive,negative,False,positive -> negative
+no profit maximization priority registers dinosaurs,negative,neutral,False,negative -> neutral
+club den east west disgusting,negative,positive,False,negative -> positive
+drops people vice versa forth,neutral,negative,False,neutral -> negative
+cannot dm not follow,negative,neutral,False,negative -> neutral
+wifi dca stl route hour flight use love,negative,neutral,False,negative -> neutral
+lol guys months ago fleet s fleek,positive,neutral,False,positive -> neutral
+come reopen ord clear growing dc backlog,negative,neutral,False,negative -> neutral
+logged flight booking problems need add api travelling states cannot,negative,neutral,False,negative -> neutral
+jane wanted,negative,neutral,False,negative -> neutral
+dont wrong love flying tv free bags descent fares recent plane problems just annoying,negative,positive,False,negative -> positive
+chging flight isit possible pay fare difference dollars ticket bought completely point redemption,neutral,negative,False,neutral -> negative
+oh no worries nl no disappointments better no lounges like delta does disappoint,positive,negative,False,positive -> negative
+yes,positive,neutral,False,positive -> neutral
+current checked bag price policy fly coming week not definitive,neutral,negative,False,neutral -> negative
+share value common,positive,neutral,False,positive -> neutral
+heard youre planning letting people fly overhead compartments,neutral,negative,False,neutral -> negative
+bet,positive,neutral,False,positive -> neutral
+friendly engaging personable handled clarifying questions baggage fees took doing,positive,neutral,False,positive -> neutral
+weeks,neutral,positive,False,neutral -> positive
+thanks info number speak person going hour type,positive,negative,False,positive -> negative
+no m good just home,neutral,negative,False,neutral -> negative
+hilarious,negative,neutral,False,negative -> neutral
+fly warm tired snow,negative,neutral,False,negative -> neutral
+stop rt fleet s fleek,positive,neutral,False,positive -> neutral
+help really want fly guessweflyingdelta,positive,negative,False,positive -> negative
+thanks losing luggage,negative,positive,False,negative -> positive
+contact know changes destination really evaluate thanks,neutral,positive,False,neutral -> positive
+thank credits submitted complaints property vacation package hope listen,negative,positive,False,negative -> positive
+like apologize gate agent flight aa not aware zone precious gems,neutral,negative,False,neutral -> negative
+thanks sent dm let know oyu need additional information,positive,neutral,False,positive -> neutral
+wish ground operation expedient twitter response team delay just got extended,negative,positive,False,negative -> positive
+thanks mr got rebooked lost class seat life,negative,positive,False,negative -> positive
+wife stuck brownsville chance flight needs work tomorrow morning,negative,neutral,False,negative -> neutral
+standard protocol security plane crying baby,negative,neutral,False,negative -> neutral
+pty pit iah,neutral,positive,False,neutral -> positive
+question departure times based eastern central time time zone actually,neutral,negative,False,neutral -> negative
+thanks got flight tomorrow not faith ll ground tomorrow,positive,neutral,False,positive -> neutral
+travel booked united group dept okc ticket agent willing help connection lax,negative,neutral,False,negative -> neutral
+checked des moines lay ord final destination austin texas baggage checked ord,negative,neutral,False,negative -> neutral
+ua needs icing stat waited turn,neutral,negative,False,neutral -> negative
+sure did waited min yay,positive,negative,False,positive -> negative
+chairman st class flights today cancelled flightled tickets kicked st,negative,neutral,False,negative -> neutral
+great carrieunderwood,neutral,positive,False,neutral -> positive
+thank responding promptly look forward kms drive office file claim,positive,neutral,False,positive -> neutral
+united s service levels reaches etihad lets realistically lufthansa ill consider,negative,neutral,False,negative -> neutral
+hope looks nice warm san juan,neutral,positive,False,neutral -> positive
+thanks getting airlines future,negative,positive,False,negative -> positive
+really need help asap make quick thx,negative,positive,False,negative -> positive
+hi suggested contacted u phone sent mail original ticket result,negative,neutral,False,negative -> neutral
+cannot cheap flight dc st louis prices went like crazy april weekends,negative,neutral,False,negative -> neutral
+thanks reflight booking problems flight leaving luggage nyc unbelievable,negative,positive,False,negative -> positive
+going tweets coming till aa does know hoping way not likely,negative,neutral,False,negative -> neutral
+late flightr flight charleston leaving flight scheduled earlier wrong,negative,neutral,False,negative -> neutral
+probably not anymore,neutral,negative,False,neutral -> negative
+no leave work not possible love replaced,neutral,negative,False,neutral -> negative
+considering accessibility absolute equality,negative,neutral,False,negative -> neutral
+huge props parizad checkin sacramento help friday home airlines delayed,positive,negative,False,positive -> negative
+flight booking problems flights dc visit easter weekend started difficult ended guys big fan,positive,neutral,False,positive -> neutral
+nice lhr congrats sticking aa ba,neutral,positive,False,neutral -> positive
+safety lovejetblue,positive,neutral,False,positive -> neutral
+glad hear curiosity causes flight patterns,neutral,positive,False,neutral -> positive
+os not controlled app new,neutral,negative,False,neutral -> negative
+cough awkward,negative,neutral,False,negative -> neutral
+ok thanks clarification,neutral,positive,False,neutral -> positive
+need flight tonight not,negative,neutral,False,negative -> neutral
+cannot control weather flight attendant control green acu bag hrs counting yep,neutral,negative,False,neutral -> negative
+think,negative,neutral,False,negative -> neutral
+passengers reservation numbers,negative,neutral,False,negative -> neutral
+thanks really minute wait times x minute wait times,negative,positive,False,negative -> positive
+flight changed airways cannot seats help,neutral,negative,False,neutral -> negative
+economy plus not seated,neutral,negative,False,neutral -> negative
+rtb iah class wife global services headaches neighbors smoking e cigarettes contact pls,negative,neutral,False,negative -> neutral
+hi lga luggage clt told come tomorrow collect guys want cover taxi fare,negative,neutral,False,negative -> neutral
+outta,negative,neutral,False,negative -> neutral
+iad buf incredibly loud like world s inner city metro bus lowstandards,negative,neutral,False,negative -> neutral
+not departed let s not high hopes schedule far,positive,negative,False,positive -> negative
+left item plane bos phl friday called phl airways left msgs no return point,negative,neutral,False,negative -> neutral
+really know piss people farelock option fake,negative,neutral,False,negative -> neutral
+not let real nice just love awesome service u people working customer service line,negative,positive,False,negative -> positive
+freakin,negative,neutral,False,negative -> neutral
+fine really likes picking seat,positive,negative,False,positive -> negative
+good morning tamara try comfortably flight soon noxtralegroom nocoatcloset,negative,positive,False,negative -> positive
+huge favor,neutral,positive,False,neutral -> positive
+southwest did mechanical problem gave round trip vouchers step plate flight,neutral,negative,False,neutral -> negative
+discount delays,negative,neutral,False,negative -> neutral
+policy needs revision babies fortunately choices choose,negative,neutral,False,negative -> neutral
+customer service inferior nationalized world nation s airline,negative,positive,False,negative -> positive
+flights dallas tuesday not going cancelled flightled correct,neutral,negative,False,neutral -> negative
+unfortunately tarmac definitely missing ride gonnabealongnight,neutral,negative,False,neutral -> negative
+look good pita inedible year delicious shrimp cocktail year garbage,negative,positive,False,negative -> positive
+chicago s hometown airline care neighbors savethediagonals flyquiet ordnoise,positive,negative,False,positive -> negative
+thanks calling p redirected flight p smoothoperation,negative,positive,False,negative -> positive
+okay does look fear lost forever small item,negative,neutral,False,negative -> neutral
+phone number cannot flight reservation,negative,neutral,False,negative -> neutral
+correct rates boston pittsburgh wknd march rates sudden took plans came buy surprised,negative,neutral,False,negative -> neutral
+rock making watch oscars flight redcarpet oscars oscars,positive,neutral,False,positive -> neutral
+twitter not letting dm,neutral,negative,False,neutral -> negative
+add wifi entertainment old seats ll come,negative,neutral,False,negative -> neutral
+stood night giving second chance just boy tweeting airline asking fly home,negative,neutral,False,negative -> neutral
+thank,neutral,positive,False,neutral -> positive
+did talk delta hour phone got number delta asked aa did,neutral,negative,False,neutral -> negative
+really easy locals strip book,positive,neutral,False,positive -> neutral
+technically drive jfk request tomorrow s flight,negative,neutral,False,negative -> neutral
+able seat assign paying cust sec,negative,neutral,False,negative -> neutral
+just think weird mileage,positive,neutral,False,positive -> neutral
+sucks not having money book flight love life miles away,neutral,negative,False,neutral -> negative
+mold flight filthyplane hopeidonotgetsick,negative,neutral,False,negative -> neutral
+yes love upgrade voucher,neutral,positive,False,neutral -> positive
+know bar wish,positive,neutral,False,positive -> neutral
+flight attendant hesitant baby sized cookies,negative,positive,False,negative -> positive
+really missed prime opportunity men hats parody,neutral,positive,False,neutral -> positive
+not like hear help thanks ey offer help,negative,neutral,False,negative -> neutral
+props las employees working c gate not opposed flying las future,positive,negative,False,positive -> negative
+got campus visit hour wearing clothes,neutral,negative,False,neutral -> negative
+come mobile cannot proceed w o entering postcode purchase ireland not postcode just,neutral,negative,False,neutral -> negative
+nd person called ask not catch rejected request,negative,neutral,False,negative -> neutral
+yes thanks took forever,negative,positive,False,negative -> positive
+guys amazing company continually makes mistakes fails held accountable error,negative,positive,False,negative -> positive
+flight cancelled flightled mess ensued thank awesome marcos concierge key gru sorting,negative,positive,False,negative -> positive
+know thanks evaluate chairman,positive,neutral,False,positive -> neutral
+wonderful job today got wife daughter pgh orlando flight delayed luggage,positive,negative,False,positive -> negative
+tell,negative,neutral,False,negative -> neutral
+thanks connection nashville boarding pass dallas gate boarding min flt end b group,positive,neutral,False,positive -> neutral
+airline trouble not getting satisfactory customer service contact negotiate resolutions,neutral,negative,False,neutral -> negative
+appreciate just problems year flying guys pretty aggravating,negative,positive,False,negative -> positive
+not based chicago doing hunt la not home city bring home,neutral,negative,False,neutral -> negative
+missed trip,neutral,negative,False,neutral -> negative
+try contacting flight refund offer believe,negative,neutral,False,negative -> neutral
+thanks results missing conference attending options book earlier not receive refund,negative,neutral,False,negative -> neutral
+denver bag san jose wrong,negative,neutral,False,negative -> neutral
+husband ordered drinks screen never came awesome,negative,positive,False,negative -> positive
+home hrs gfc,positive,negative,False,positive -> negative
+need miracle help flight fingerscrossed pleasegod missmykids,negative,neutral,False,negative -> neutral
+cancelled flighting flight today weather dallas charged,negative,neutral,False,negative -> neutral
+consider honoring original fare price try flight booking problems ticket,negative,neutral,False,negative -> neutral
+yes d y instagram,positive,neutral,False,positive -> neutral
+southwest scheduled fly costa rica march cannot book online available,negative,neutral,False,negative -> neutral
+thanks forcing check carry luggage exactly spent extra money travel size toiletries,positive,negative,False,positive -> negative
+cheat goes horribly wrong promise not stray anymore talking,negative,neutral,False,negative -> neutral
+travel advis nyc phil pa winter weather u s air not posted change flt wo pen,negative,neutral,False,negative -> neutral
+going giving travel agent rates hold iata card,neutral,negative,False,neutral -> negative
+email address send actually screen shot,neutral,negative,False,neutral -> negative
+not sure help d great,neutral,positive,False,neutral -> positive
+cannot dm guys jdhadp,negative,neutral,False,negative -> neutral
+hate having fly different airline fav,positive,negative,False,positive -> negative
+held plane,positive,negative,False,positive -> negative
+delayed way puerto rico delayed way new york disgraceful,negative,neutral,False,negative -> neutral
+promise not unfollow,neutral,negative,False,neutral -> negative
+priority seating paid flight,neutral,negative,False,neutral -> negative
+d suggest proper information dissemination staff timely relevant schedule prevent future,neutral,negative,False,neutral -> negative
+grk m file reference,negative,neutral,False,negative -> neutral
+supposed arrive destination tonight american rebooks wednesday staying,negative,neutral,False,negative -> neutral
+just booked bos uggh hour bus wmass home flown bdl dc time unitedairlines,negative,positive,False,negative -> positive
+real deal delay flight ua denver vegas,negative,neutral,False,negative -> neutral
+loving boarding chicago keepitmovin,positive,neutral,False,positive -> neutral
+characters respond formal letter trust plenty say,neutral,negative,False,neutral -> negative
+no worries able read entire book holding themagicalstranger,neutral,positive,False,neutral -> positive
+mint service nyc san diego,neutral,positive,False,neutral -> positive
+not rt fleet s fleek,negative,neutral,False,negative -> neutral
+hold minutes help,neutral,negative,False,neutral -> negative
+point email stating did not bumped st class know not class booked regular ticket,neutral,negative,False,neutral -> negative
+julie andrews lady gaga wow d night carrie meh,neutral,positive,False,neutral -> positive
+thing fella right today pacific time zone,positive,neutral,False,positive -> neutral
+delayed connection customer service today able pay final respects dear family member thank,positive,negative,False,positive -> negative
+doing thing tried avoid thank sending baggage claim,negative,positive,False,negative -> positive
+just dm d,negative,neutral,False,negative -> neutral
+no kidding gonna beating apron good lookin planes,positive,negative,False,positive -> negative
+waiting,neutral,negative,False,neutral -> negative
+left ipad flight erw den opened claim memories plz help,negative,neutral,False,negative -> neutral
+illiterate magic code make customer service site work,negative,positive,False,negative -> positive
+admit not app good lots useful func live seat map congrats,positive,negative,False,positive -> negative
+delayed flights today not weather relate flightd good work,negative,positive,False,negative -> positive
+sure saying long tweeting obsolete fleet promises free,negative,neutral,False,negative -> neutral
+difference booked flights want screen shots,negative,neutral,False,negative -> neutral
+hey booked flight isabelle gramp boston lax said charged credit card transaction did not,negative,neutral,False,negative -> neutral
+copy flight showing original time delay need work thanks,neutral,negative,False,neutral -> negative
+service desk iad,neutral,positive,False,neutral -> positive
+thanks julian login getting earlier flight dca,positive,neutral,False,positive -> neutral
+thank uxzj paid early bird sat,negative,positive,False,negative -> positive
+worked like charm bag waiting carousel got baggage claim welldone goodflight friendlysky,positive,negative,False,positive -> negative
+zoom sauce potatoes stuff vile mean vile,negative,neutral,False,negative -> neutral
+heard companies studying popular lingo advertising just depressing embarrassing,negative,neutral,False,negative -> neutral
+ah given shuttle voucher airport getting,neutral,negative,False,neutral -> negative
+going flight buffalo jfk figured temperature tower,negative,neutral,False,negative -> neutral
+return jet miami,negative,neutral,False,negative -> neutral
+hi protect just case ground no checked luggage chance make original,neutral,negative,False,neutral -> negative
+did not receive drink coupons points friends did,negative,neutral,False,negative -> neutral
+website fucked instead flight ve yesterday s today thanks,negative,neutral,False,negative -> neutral
+frustrating days no flights home changed airlines thank phl usairway employees help getting iah,positive,negative,False,positive -> negative
+ive airline great soured experience hope not time,negative,positive,False,negative -> positive
+thanks taking good care luggage,negative,positive,False,negative -> positive
+best never fly w americanairlines y day remember,negative,positive,False,negative -> positive
+terminal e miami worst smelly airport thanks,negative,positive,False,negative -> positive
+hey missed outbound flight use return ticket,neutral,negative,False,neutral -> negative
+phone looks like global,neutral,negative,False,neutral -> negative
+loyal usair customer sure make right want home work,positive,negative,False,positive -> negative
+cannot right baby just fell asleep,neutral,negative,False,neutral -> negative
+flight booking problems week s trip thanks making choice easy disunited unfriendlyskies servicefail,negative,positive,False,negative -> positive
+thank tried said did not try,positive,neutral,False,positive -> neutral
+stop changing flights spring break th time,negative,neutral,False,negative -> neutral
+love report horrible flight team let s make worse seat snacks,negative,positive,False,negative -> positive
+yep certain flight,negative,neutral,False,negative -> neutral
+thanks lack help canned response k desk,negative,positive,False,negative -> positive
+haha no need apologize flight booking problems sooner late flightr love jetblue,positive,negative,False,positive -> negative
+expect,negative,neutral,False,negative -> neutral
+flight available tomorrow morning idea bna open morning flight,negative,neutral,False,negative -> neutral
+dont send tweet cover social media complaints sending message way resolve custserv,negative,neutral,False,negative -> neutral
+ready,positive,neutral,False,positive -> neutral
+amsterdam ewr,neutral,negative,False,neutral -> negative
+plane,neutral,negative,False,neutral -> negative
+mom said never settle chips ain t blue just not,neutral,negative,False,neutral -> negative
+received invitation participate e rewards legit jetblue just double checking bc site looked different,neutral,negative,False,neutral -> negative
+guys respond tweets dm really sad feeling ignored,negative,neutral,False,negative -> neutral
+overbooked business class mia uvf correct seat moved economy special day,negative,neutral,False,negative -> neutral
+report team,negative,positive,False,negative -> positive
+u want helpful save trip westchester cty jfk plus parking info photo,negative,positive,False,negative -> positive
+ahhhh sorry just followed,neutral,positive,False,neutral -> positive
+day visa expiring june booked flight day,negative,neutral,False,negative -> neutral
+insensitive foodallergies life threatening unsolicited uneducated opinions inappropriate reckless dangerous,negative,neutral,False,negative -> neutral
+s direct flight fll sfo unexpected layover vegas fuel peeps bought vegas flight sneaky,negative,neutral,False,negative -> neutral
+disappointed learn charging use k miles upgrades ps jfk flights looking alternatives,negative,neutral,False,negative -> neutral
+make sure care team team,neutral,positive,False,neutral -> positive
+did not d,positive,negative,False,positive -> negative
+personal device entertainment great app crashing mins glad free,negative,positive,False,negative -> positive
+thanks gate change,negative,positive,False,negative -> positive
+great boarding perfectly plane shot fml plans screwed thanks,negative,positive,False,negative -> positive
+staff members looking like heads check websites,negative,neutral,False,negative -> neutral
+flight did not needed hot beverages ny ers landing super smooth happytweet,positive,negative,False,positive -> negative
+important accept swadiversity,neutral,positive,False,neutral -> positive
+thx stand know frustrating appreciate patience try way jh,neutral,positive,False,neutral -> positive
+friendly efficient air attendants coach ua,negative,positive,False,negative -> positive
+just said not know,negative,neutral,False,negative -> neutral
+yes no answering train,neutral,negative,False,neutral -> negative
+disgusting unconscionable treatment received tonight,negative,neutral,False,negative -> neutral
+getaway deals way lots cool cities cheapflights farecompare,neutral,positive,False,neutral -> positive
+fyi info com email address say contact password reset emails does not exist emails bounce,negative,neutral,False,negative -> neutral
+cannot say airline right sincerely miss bestairline,positive,negative,False,positive -> negative
+man steel flies cities frequency,negative,neutral,False,negative -> neutral
+confirm cid dfw departure cancelled flighted not want make hour drive,neutral,negative,False,neutral -> negative
+hi just bked cool birthday trip cannot add elevate no cause entered middle flight booking problems,negative,neutral,False,negative -> neutral
+yes tomorrow work really mad situation,negative,positive,False,negative -> positive
+not know working home thanks,negative,positive,False,negative -> positive
+daughter record loc kybilc traveling y o needs adjacent seats not isle,neutral,negative,False,neutral -> negative
+flight balt hit turbulence babies cried kids vomited chaos flight attendant caroline superhero,negative,neutral,False,negative -> neutral
+hi flight dfw cancelled flightled tonight called left number hrs help,negative,neutral,False,negative -> neutral
+usually lounge staff fantastic today mco denied entry lounge traveling united,negative,positive,False,negative -> positive
+rules,positive,negative,False,positive -> negative
+m cool weather delays lying deceiving passengers changing reprehensible yousuck,negative,neutral,False,negative -> neutral
+left comment customer care thanks contacting,positive,neutral,False,positive -> neutral
+embarrassed air inability manage weather delays handling example,negative,neutral,False,negative -> neutral
+guidelines say x x bag x x bit taller guidelines gonna problem,neutral,negative,False,neutral -> negative
+leaving tomorrow miami thing right deliver bags airport,negative,neutral,False,negative -> neutral
+ok thanks counters located late flight open,neutral,positive,False,neutral -> positive
+trying make reservation year old lap child not option online proceed reservation,negative,neutral,False,negative -> neutral
+won tickets totally beach right flightlanding sunscreen feelsgood,neutral,positive,False,neutral -> positive
+airlines cable internet,negative,neutral,False,negative -> neutral
+flight got cancelled flightled grk dfw lex tomorrow need rebooked,neutral,negative,False,neutral -> negative
+hi looks like connection delayed make thanks,positive,neutral,False,positive -> neutral
+sorry equipment passengers allowed return plane,neutral,negative,False,neutral -> negative
+reservation online did not receive confirmation email bank said transaction went u help,negative,neutral,False,negative -> neutral
+no not notify new,neutral,negative,False,neutral -> negative
+unfortunately no lack status big problem company policy forces buy cheapest tickets,neutral,negative,False,neutral -> negative
+help set callback today,negative,neutral,False,negative -> neutral
+thank reaching hopefully request fixed remain loyal customer,negative,positive,False,negative -> positive
+dollar rt ticket chicago yes,positive,neutral,False,positive -> neutral
+jetblue travel maimi year guys dont maimi dont guys maimi,negative,positive,False,negative -> positive
+anticipate cancelled flightlations flights nashville tomorrow thank,neutral,positive,False,neutral -> positive
+never given,neutral,negative,False,neutral -> negative
+aa gate supervisor emplid allowed flight aa leave jfk sj feb w o customers final boarding,neutral,negative,False,neutral -> negative
+stuck fort lauderdale,negative,neutral,False,negative -> neutral
+thanks,neutral,positive,False,neutral -> positive
+free flights life choose purchase tickets competitor,negative,neutral,False,negative -> neutral
+seats just fees taking flight wave,negative,neutral,False,negative -> neutral
+chairs use tlc power outlets area bonus headed,positive,neutral,False,positive -> neutral
+jetblue sofly wish firststari seetonight,neutral,positive,False,neutral -> positive
+just sent drink coupons think coupons free drinks,positive,neutral,False,positive -> neutral
+highlight stated travel canada usa united nexus,negative,neutral,False,negative -> neutral
+really not use word crashing just sayin,neutral,negative,False,neutral -> negative
+thanks trip screwed ive meetings dinner im not nyc,negative,positive,False,negative -> positive
+nd chance today fly dam let s redeem horrendous trip states,negative,neutral,False,negative -> neutral
+thought thanks clarification,neutral,positive,False,neutral -> positive
+post just disappointment frequent united flyer simple bad apple does not spoil bunch,neutral,negative,False,neutral -> negative
+does not look fat looks yummy,positive,negative,False,positive -> negative
+fleet s fleek no yall better,positive,neutral,False,positive -> neutral
+drop time visit,positive,neutral,False,positive -> neutral
+just wanted let know wonderful rosetta gate agent working flight dan ase let know wasappreciated,positive,neutral,False,positive -> neutral
+lady helping luggage,positive,negative,False,positive -> negative
+mins wait,neutral,negative,False,neutral -> negative
+fleet s fleek really jetblue fleek hell no yall petty,negative,neutral,False,negative -> neutral
+planes really pretty just thought u know,positive,neutral,False,positive -> neutral
+new baggage fees fare structures reduced legroom turned hated carrier congrats,negative,positive,False,negative -> positive
+just told supervisor not guarantee seats standby passengers flights cancelled flightled sell,neutral,negative,False,neutral -> negative
+thank not really responding request sending generic environment site,negative,positive,False,negative -> positive
+great thank send,neutral,positive,False,neutral -> positive
+freaking fact fixing engine charlotte orlando longday,negative,neutral,False,negative -> neutral
+wife s flight dal just got cancelled flightled does options home phx dal,negative,neutral,False,negative -> neutral
+plus food taxis,negative,neutral,False,negative -> neutral
+guys continue impress houston,positive,negative,False,positive -> negative
+told united carry carry refund,neutral,negative,False,neutral -> negative
+sfo hnl zero entertainment systems youareonyourown,negative,neutral,False,negative -> neutral
+multiplier ticket price never equal miles travel transatlantic flights,neutral,negative,False,neutral -> negative
+absolutely,neutral,positive,False,neutral -> positive
+lower plane flight like bucks thanks floridavacation,neutral,positive,False,neutral -> positive
+went number priority,positive,neutral,False,positive -> neutral
+ugh know way heart,positive,neutral,False,positive -> neutral
+progress good luck patrick,neutral,positive,False,neutral -> positive
+going wifi planes,neutral,negative,False,neutral -> negative
+say connections good reflight booking problems thing need today,negative,positive,False,negative -> positive
+sure looks like make birthday celebration,negative,positive,False,negative -> positive
+cause trueblue ur love keeps liftin higherandhigher,neutral,positive,False,neutral -> positive
+idea flight aa,negative,neutral,False,negative -> neutral
+sooo earlier said fly school trip,positive,neutral,False,positive -> neutral
+need help never got tickets conf ggqzqd,neutral,negative,False,neutral -> negative
+thanks letting know hoping no delays,positive,negative,False,positive -> negative
+runs airport boarding pass says airways wait american line yousuck,negative,neutral,False,negative -> neutral
+interested possibly changing flight day need fees number busy,negative,neutral,False,negative -> neutral
+making dreams come true destinationdragons scavenger hunt win chance imagine dragons,positive,neutral,False,positive -> neutral
+actually flight not,neutral,negative,False,neutral -> negative
+yes filled form year not case number handy guess not cut historical society afterall,neutral,negative,False,neutral -> negative
+cc boldflavors bringing bourbon st ft bold flavors fresh ingredients dining options,positive,neutral,False,positive -> neutral
+left min wway,neutral,negative,False,neutral -> negative
+tried cannot figure,neutral,negative,False,neutral -> negative
+passengers automatically rebooked flights original cancelled flighted weather,neutral,negative,False,neutral -> negative
+worry,negative,neutral,False,negative -> neutral
+bag policy says stroller car seat need bring car seats stroller just details,neutral,negative,False,neutral -> negative
+fine automatically changed connecting flight not miss work,positive,negative,False,positive -> negative
+got kidding look pictures hoping flight just came story,negative,neutral,False,negative -> neutral
+accept apologies lame childish tweet did not deserve remain loyal sw customer,positive,negative,False,positive -> negative
+cool canned response nah think tweeting mentions aa twitter dm,negative,neutral,False,negative -> neutral
+yes like need luggage tomorrow morning,negative,neutral,False,negative -> neutral
+tell,negative,neutral,False,negative -> neutral
+en route airport rebooked ticket refunded,positive,neutral,False,positive -> neutral
+ah wish good luck,neutral,positive,False,neutral -> positive
+did aa return jfk thanks,neutral,positive,False,neutral -> positive
+yesterday way ewr fll just wheelsup jetbluesofly,positive,neutral,False,positive -> neutral
+really sprint thought guys kewl,neutral,negative,False,neutral -> negative
+wonder pilot tweeting legal tweet fly plane stops suddenly,negative,neutral,False,negative -> neutral
+awesome book christmas vacatinn december ways want devalue mileage plus,positive,neutral,False,positive -> neutral
+bring fianc,negative,neutral,False,negative -> neutral
+exactly ill flying aa dallas airline trust,positive,negative,False,positive -> negative
+flight arrives e penguin plane,neutral,negative,False,neutral -> negative
+check luggage employee told not include wheels dimensions,neutral,negative,False,neutral -> negative
+thank,neutral,positive,False,neutral -> positive
+cool did not need work today home make sure house ok wind chill,neutral,positive,False,neutral -> positive
+link current status flights airports fly bwi ewr mco morning cannot tell problems snow,negative,neutral,False,negative -> neutral
+landing early morning snowfall,neutral,positive,False,neutral -> positive
+need speak supervisor willing help use credit asap letsworktogether,negative,neutral,False,negative -> neutral
+rocking tim mcgraw hold music,neutral,negative,False,neutral -> negative
+thanks annoying especially miss flight tweet tsa,negative,positive,False,negative -> positive
+moving seats bought months ago happens far,negative,neutral,False,negative -> neutral
+air switching aa ios app aa app better,neutral,negative,False,neutral -> negative
+work better lesson plans music classes today,negative,neutral,False,negative -> neutral
+fleet s fleek smh yall expect trust childish airline life nah,negative,neutral,False,negative -> neutral
+flight cancelled flightled yesterday delay today robbed daughter days grandparents thanks,neutral,negative,False,neutral -> negative
+oops no functioning bathrooms fairly flight hope new york hold included,negative,neutral,False,negative -> neutral
+truck no biggie,neutral,negative,False,neutral -> negative
+link email offers u sent year buy transfer miles just expired,negative,neutral,False,negative -> neutral
+heart cp status sure nice,positive,neutral,False,positive -> neutral
+broken tv seat f flight today planned catch game nooooo,negative,neutral,False,negative -> neutral
+answering fast mean hanging,negative,positive,False,negative -> positive
+thanks anyways awesome rate amazing customer service nomoreaggravation,neutral,positive,False,neutral -> positive
+doubtful fly united traveling lot sales manager covering north america,negative,neutral,False,negative -> neutral

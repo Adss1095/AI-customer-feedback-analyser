@@ -1,0 +1,62 @@
+AI CAPSTONE PROJECT
+PHASE 5 - MODEL VALIDATION, ERROR ANALYSIS AND REAL-WORLD TESTING
+===========================================================================
+
+MODEL:
+Logistic Regression with TF-IDF
+
+VALIDATION METRICS:
+Accuracy: 0.7720
+Macro Precision: 0.7087
+Macro Recall: 0.7396
+Macro F1: 0.7219
+Weighted F1: 0.7773
+
+CLASSIFICATION REPORT:
+              precision    recall  f1-score   support
+
+    negative       0.89      0.82      0.85      1815
+     neutral       0.57      0.66      0.61       605
+    positive       0.67      0.74      0.70       457
+
+    accuracy                           0.77      2877
+   macro avg       0.71      0.74      0.72      2877
+weighted avg       0.79      0.77      0.78      2877
+
+
+ERROR ANALYSIS:
+Total test samples: 2877
+Correct predictions: 2221
+Incorrect predictions: 656
+
+Error types:
+error_type
+negative -> neutral     238
+neutral -> negative     133
+negative -> positive     94
+neutral -> positive      74
+positive -> neutral      65
+positive -> negative     52
+Name: count, dtype: int64
+
+CONFIDENCE ANALYSIS:
+Average confidence: 0.6933
+Minimum confidence: 0.3389
+Maximum confidence: 0.9983
+High confidence predictions: 919
+Medium confidence predictions: 961
+Low confidence predictions: 997
+
+
+REAL-WORLD TESTING:
+                                                     review predicted_sentiment  negative_probability  neutral_probability  positive_probability  confidence
+The flight was delayed for five hours and nobody helped us.            negative              0.963416             0.020806              0.015778    0.963416
+Everything was smooth and the staff were extremely helpful.            positive              0.084116             0.037123              0.878761    0.878761
+                      The flight was okay, nothing special.             neutral              0.171593             0.750509              0.077898    0.750509
+             I loved the service and the crew were amazing.            positive              0.011500             0.003115              0.985384    0.985384
+      My baggage was lost and customer support was useless.            negative              0.900984             0.039064              0.059951    0.900984
+        The flight arrived on time and everything was fine.            negative              0.626780             0.209592              0.163629    0.626780
+      Very disappointed with the terrible customer service.            negative              0.958360             0.015066              0.026574    0.958360
+                 The experience was average and acceptable.            negative              0.603336             0.133927              0.262737    0.603336
+    The staff were friendly and the flight was comfortable.            positive              0.173142             0.105147              0.721711    0.721711
+                       I will never use this airline again.            negative              0.677288             0.081949              0.240763    0.677288

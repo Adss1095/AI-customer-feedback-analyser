@@ -1,0 +1,39 @@
+AI CAPSTONE PROJECT
+PHASE 2 - DATA CLEANING AND EDA
+============================================================
+
+Total reviews: 32
+Total columns: 7
+
+Missing values:
+review_id          0
+review             0
+rating             0
+sentiment          0
+cleaned_review     0
+word_count         0
+character_count    0
+dtype: int64
+
+Sentiment distribution:
+sentiment
+positive    14
+negative    12
+neutral      6
+Name: count, dtype: int64
+
+Sentiment percentages:
+sentiment
+positive    43.75
+negative    37.50
+neutral     18.75
+Name: proportion, dtype: float64
+
+Average rating: 3.12
+Median rating: 3.00
+Minimum rating: 1
+Maximum rating: 5
+
+Average words per review: 6.56
+Shortest review: 4
+Longest review: 10

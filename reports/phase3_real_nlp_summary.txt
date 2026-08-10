@@ -1,0 +1,35 @@
+AI CAPSTONE PROJECT
+PHASE 3 - FINAL NLP PREPROCESSING
+======================================================================
+
+Final reviews: 14381
+Average tokens: 8.22
+Minimum tokens: 1
+Maximum tokens: 20
+
+Preprocessing:
+- HTML entity decoding
+- Lowercase conversion
+- URL removal
+- User mention removal
+- Contraction expansion
+- Hashtag processing
+- Punctuation removal
+- Whitespace normalization
+- Tokenization
+- Stop-word removal
+- Negation preservation
+
+Sentiment distribution:
+sentiment
+negative    9071
+neutral     3026
+positive    2284
+Name: count, dtype: int64
+
+Sentiment percentages:
+sentiment
+negative    63.08
+neutral     21.04
+positive    15.88
+Name: proportion, dtype: float64

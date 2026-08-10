@@ -1,0 +1,45 @@
+AI CAPSTONE PROJECT
+PHASE 4 - MODEL TRAINING AND EVALUATION
+===========================================================================
+
+Total dataset samples: 14381
+Training samples: 11504
+Testing samples: 2877
+
+Class distribution:
+sentiment
+negative    9071
+neutral     3026
+positive    2284
+Name: count, dtype: int64
+
+Feature extraction:
+TF-IDF unigram and bigram features
+Maximum features: 50,000
+Minimum document frequency: 2
+
+Models evaluated:
+1. Logistic Regression
+2. Linear SVM
+3. Multinomial Naive Bayes
+
+5-Fold Cross-Validation Results:
+
+                  Model  CV_Accuracy_Mean  CV_Accuracy_STD  CV_Precision_Macro  CV_Recall_Macro  CV_F1_Macro  CV_F1_Weighted
+    Logistic Regression          0.769385         0.001523            0.707595         0.733308     0.718265        0.774684
+             Linear SVM          0.774600         0.004929            0.712740         0.702746     0.707224        0.773229
+Multinomial Naive Bayes          0.704798         0.003376            0.779605         0.477869     0.503830        0.639971
+
+Test Set Results:
+
+                  Model  Test_Accuracy  Test_Precision_Macro  Test_Recall_Macro  Test_F1_Macro  Test_F1_Weighted
+    Logistic Regression       0.771985              0.708713           0.739638       0.721908          0.777325
+             Linear SVM       0.774070              0.707354           0.708878       0.707876          0.773117
+Multinomial Naive Bayes       0.717762              0.795336           0.501911       0.535096          0.659590
+
+Selected best model: Logistic Regression
+Test Macro F1: 0.7219
+
+Model selection criterion: highest Test Macro F1.
+
+Macro F1 was prioritized because the dataset is imbalanced across negative, neutral, and positive sentiment classes.

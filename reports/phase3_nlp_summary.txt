@@ -1,0 +1,24 @@
+AI CAPSTONE PROJECT
+PHASE 3 - NLP PREPROCESSING
+=================================================================
+
+Total reviews: 32
+Positive reviews: 14
+Neutral reviews: 6
+Negative reviews: 12
+
+NLP preprocessing steps:
+1. Lowercase conversion
+2. URL removal
+3. HTML removal
+4. Punctuation removal
+5. Numeric character removal
+6. Whitespace normalization
+7. Tokenization
+8. English stop-word removal
+
+Average tokens per review: 3.31
+Minimum tokens: 2
+Maximum tokens: 5
+
+Empty NLP-ready reviews: 0

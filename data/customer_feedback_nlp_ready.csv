@@ -1,0 +1,33 @@
+review_id,review,rating,sentiment,cleaned_review,word_count,character_count,nlp_ready_review,token_count
+1,The delivery was fast and the food was fresh.,5,positive,the delivery was fast and the food was fresh,9,44,delivery fast food fresh,4
+2,Excellent service and very friendly staff.,5,positive,excellent service and very friendly staff,6,41,excellent service friendly staff,4
+3,I loved the quality of the product.,5,positive,i loved the quality of the product,7,34,loved quality product,3
+4,The app is easy to use and works perfectly.,5,positive,the app is easy to use and works perfectly,9,42,app easy use works perfectly,5
+5,Very happy with my purchase. Everything was great.,5,positive,very happy with my purchase everything was great,8,48,happy purchase great,3
+6,"Amazing experience, I will definitely recommend it.",5,positive,amazing experience i will definitely recommend it,7,49,amazing experience definitely recommend,4
+7,The product arrived on time and was well packed.,5,positive,the product arrived on time and was well packed,9,47,product arrived time packed,4
+8,Customer support solved my problem quickly.,5,positive,customer support solved my problem quickly,6,42,customer support solved problem quickly,5
+9,The quality is good for the price.,4,positive,the quality is good for the price,7,33,quality good price,3
+10,Delivery was quick and the packaging was neat.,4,positive,delivery was quick and the packaging was neat,8,45,delivery quick packaging neat,4
+11,The service was good overall.,4,positive,the service was good overall,5,28,service good overall,3
+12,The product works well and looks nice.,4,positive,the product works well and looks nice,7,37,product works looks nice,4
+13,I am satisfied with the purchase.,4,positive,i am satisfied with the purchase,6,32,satisfied purchase,2
+14,The experience was pleasant.,4,positive,the experience was pleasant,4,27,experience pleasant,2
+15,The app is useful but could be a little faster.,3,neutral,the app is useful but could be a little faster,10,46,app useful little faster,4
+16,"The product is okay, nothing special.",3,neutral,the product is okay nothing special,6,35,product okay special,3
+17,Delivery took longer than expected.,3,neutral,delivery took longer than expected,5,34,delivery took longer expected,4
+18,The service was average.,3,neutral,the service was average,4,23,service average,2
+19,The quality is acceptable.,3,neutral,the quality is acceptable,4,25,quality acceptable,2
+20,"It works, but there are several things to improve.",3,neutral,it works but there are several things to improve,9,48,works things improve,3
+21,The product arrived late.,2,negative,the product arrived late,4,24,product arrived late,3
+22,Customer support was slow to respond.,2,negative,customer support was slow to respond,6,36,customer support slow respond,4
+23,The quality was disappointing.,2,negative,the quality was disappointing,4,29,quality disappointing,2
+24,The app crashed several times.,2,negative,the app crashed several times,5,29,app crashed times,3
+25,Packaging was damaged when it arrived.,2,negative,packaging was damaged when it arrived,6,37,packaging damaged arrived,3
+26,I am not happy with this purchase.,2,negative,i am not happy with this purchase,7,33,happy purchase,2
+27,The product stopped working after a few days.,1,negative,the product stopped working after a few days,8,44,product stopped working days,4
+28,Terrible service and very poor quality.,1,negative,terrible service and very poor quality,6,38,terrible service poor quality,4
+29,The delivery was extremely late and the item was damaged.,1,negative,the delivery was extremely late and the item was damaged,10,56,delivery extremely late item damaged,5
+30,Customer support did not help at all.,1,negative,customer support did not help at all,7,36,customer support did help,4
+31,This was a frustrating experience.,1,negative,this was a frustrating experience,5,33,frustrating experience,2
+32,I would not recommend this product.,1,negative,i would not recommend this product,6,34,recommend product,2

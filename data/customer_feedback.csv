@@ -1,0 +1,33 @@
+review_id,review,rating,sentiment
+1,The delivery was fast and the food was fresh.,5,positive
+2,Excellent service and very friendly staff.,5,positive
+3,I loved the quality of the product.,5,positive
+4,The app is easy to use and works perfectly.,5,positive
+5,Very happy with my purchase. Everything was great.,5,positive
+6,"Amazing experience, I will definitely recommend it.",5,positive
+7,The product arrived on time and was well packed.,5,positive
+8,Customer support solved my problem quickly.,5,positive
+9,The quality is good for the price.,4,positive
+10,Delivery was quick and the packaging was neat.,4,positive
+11,The service was good overall.,4,positive
+12,The product works well and looks nice.,4,positive
+13,I am satisfied with the purchase.,4,positive
+14,The experience was pleasant.,4,positive
+15,The app is useful but could be a little faster.,3,neutral
+16,"The product is okay, nothing special.",3,neutral
+17,Delivery took longer than expected.,3,neutral
+18,The service was average.,3,neutral
+19,The quality is acceptable.,3,neutral
+20,"It works, but there are several things to improve.",3,neutral
+21,The product arrived late.,2,negative
+22,Customer support was slow to respond.,2,negative
+23,The quality was disappointing.,2,negative
+24,The app crashed several times.,2,negative
+25,Packaging was damaged when it arrived.,2,negative
+26,I am not happy with this purchase.,2,negative
+27,The product stopped working after a few days.,1,negative
+28,Terrible service and very poor quality.,1,negative
+29,The delivery was extremely late and the item was damaged.,1,negative
+30,Customer support did not help at all.,1,negative
+31,This was a frustrating experience.,1,negative
+32,I would not recommend this product.,1,negative
