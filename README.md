@@ -5,9 +5,9 @@ Author:ADITI V BIDKAR
 
 An end-to-end Artificial Intelligence capstone project that uses Natural Language Processing (NLP) and Machine Learning to automatically classify customer feedback into **Positive, Neutral, or Negative** sentiment.
 
-The project covers the complete AI workflow — from real-world dataset preparation and text preprocessing to model training, evaluation, error analysis, and deployment as an interactive Streamlit web application.
+The project covers the complete AI workflow  from real-world dataset preparation and text preprocessing to model training, evaluation, error analysis, and deployment as an interactive Streamlit web application.
 
----
+
 
 ## 📌 Project Overview
 
